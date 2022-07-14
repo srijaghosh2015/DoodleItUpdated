@@ -180,7 +180,7 @@ function guess() {
     const canvas =  childs.querySelector('canvas') || document.createElement('canvas');
     canvas.width = imageOpts.width;
     canvas.height = imageOpts.height;
-    canvas.style = `margin: 4px; :${imageOpts.width}px; height:${imageOpts.height}px`;
+    canvas.style = `margin: 0px; :${imageOpts.width}px; height:${imageOpts.height}px`;
     //canvas.style.borderRadius = '50%';
     childs.appendChild(canvas);
     
