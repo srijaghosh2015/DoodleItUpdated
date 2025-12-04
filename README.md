@@ -1,6 +1,6 @@
 # DoodleItUpdated
 
-Was a pleasure to work on this at Engaging Computing Group with Dr.Fred Martin and Vaishali Mahipal. Worked mostly on p5.js canvas functionality and integrating tensorflow json file with frontend. 
+Was a pleasure to work on this with Dr.Fred Martin and Vaishali Mahipal. Worked mostly on p5.js canvas functionality and integrating tensorflow json file with frontend. 
 
 Logic:
 - Dataset: Google QuickDraw (NumPy format, 28×28 grayscale)
